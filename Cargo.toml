@@ -1,0 +1,9 @@
+[package]
+name = "poetic-injustice"
+version = "0.1.0"
+authors = ["Matt Butcher <matt.butcher@microsoft.com>"]
+edition = "2018"
+
+[dependencies]
+actix-web = "0.7.19"
+rand = "0.6"
